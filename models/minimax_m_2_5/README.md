@@ -16,7 +16,9 @@
 
 ## 整体架构
 
-<待补充>
+<p align="center">
+  <img src="minimax_m_2_5_architecture.jpg" alt="MiniMax-M2.5架构图" />
+</p>
 
 ## 相关资料：
 
