@@ -1,7 +1,7 @@
 # Qwen3.5模型简介
 
-原生视觉-语言模型, 结构上沿用Qwen-Next，其MoE版本采用线性注意力（Gated DeltaNet + Gated Attention）与MoE相结合，如，Qwen3.5 397B A17B；
-Dense版本采用线性注意力（Gated DeltaNet + Gated Attention）与FFN相结合，如，Qwen3.5 27B。
+Qwen3.5系列模型作为原生视觉-语言模型，在结构上沿用了Qwen-Next的设计。其MoE版本采用混合注意力（Gated DeltaNet + Gated Attention）
+与MoE相结合，例如Qwen3.5 397B A17B；Dense版本则采用混合注意力（Gated DeltaNet + Gated Attention）与FFN相结合，例如Qwen3.5 27B。
 
 整体特点：
 - Gated DeltaNet blocks与Gated Attention blocks比例为3:1
