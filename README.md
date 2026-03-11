@@ -9,6 +9,7 @@
 **🔍主要文件**
 
 * [./llm_infer](./llm_infer) ：推理练习
+* [./models](./models)：主流模型介绍
 * [./docs](./docs)：AI infra共享资料
 
 | 📜 文件名                                                                                                                         | 📖 知识分类     | 说明                                                                                                                  | 难度     |
@@ -144,7 +145,7 @@
   <img src="kaiyuan_qr_code.png" alt="公众号二维码"  width="30%" />
 </p>
 
-### 学习更多AI Infra知识，荐关注公众号: **InfraTech**
+### 学习更多AI Infra知识，推荐关注公众号: **InfraTech**
 
 <p align="center">
   <img src="infra_tech_qr_code.jpg" alt="公众号二维码" />
