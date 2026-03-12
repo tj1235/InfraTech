@@ -1,6 +1,10 @@
 # DeepSeek V3.2模型介绍
 
+## 整体架构
 
+<p align="center">
+  <img src="deepseek_v3_2_architecture.jpg" alt="DeepSeek V3.2架构图" />
+</p>
 
 ## DSA模块介绍
 
