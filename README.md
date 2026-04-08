@@ -143,7 +143,7 @@
 | [Kimi K2.5](./models/kimi_k_2_5)          | MLA+MoE+MoonViT                    | [link](./models/kimi_k_2_5/README.md)     | 
 | [GLM 5](./models/glm_5)                   | MLA(DSA)+MoE                       | [link](./models/glm_5/README.md)          | 
 | [MiniMax M2.5](./models/minimax_m_2_5)    | GQA+MoE                            | [link](./models/minimax_m_2_5/README.md)  |
-| [Qwen3-VL](./models/qwen3_vl)             | Dense+MoE+DeepStack+Interleaved-MRoPE | [link](./models/qwen3_vl/README.md)     |
+| [Qwen3-VL](./models/qwen3_vl)             | DeepStack+Interleaved-MRoPE | [link](./models/qwen3_vl/README.md)     |
 | [Qwen3.5](./models/qwen3_5)               | Gated DeltaNet+Gated Attention+MoE | [link](./models/qwen3_5/README.md)        | 
 | [Step 3.5 Flash](./models/step_3_5_flash) | GQA+SWA+MoE+MTP                    | [link](./models/step_3_5_flash/README.md) | 
 
